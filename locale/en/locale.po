@@ -1,0 +1,11 @@
+msgid "plugins.pubIds.dor.displayName"
+msgstr "DOR"
+
+msgid "plugins.pubIds.dor.description"
+msgstr "This plugin enables the use of Digital Object Recognisers in OJS."
+
+msgid "plugins.pubIds.dor.editor.urnSuffixCustomIdentifierNotUnique"
+msgstr "Suffix not unique"
+
+msgid "plugins.pubIds.dor.editor.urn.description"
+msgstr "Digital Oject Recogniser value (you don't need to enter the prefix URL)"
